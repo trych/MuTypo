@@ -7,7 +7,7 @@ As the current official version of basil.js is somewhat outdated, **please do *n
 ## Install basil.js
 
 - Create a folder named `basiljs` in your system's `Documents` folder
-- Right-click and use 'Save target as …' on [this link](https://raw.githubusercontent.com/basiljs/basil.js/develop/basil.js) to download a file named `basil.js`
+- Right-click and use 'Save target as …' on [this link](https://github.com/trych/MuTypo/raw/master/downloads/basil.js) to download a file named `basil.js`
 - Move this downloaded file into the new `basiljs` folder
 - Download the [basil.js example scripts](https://github.com/trych/MuTypo/raw/master/downloads/basiljs_examples.zip), un-zip the file and move the resulting folder into the `basiljs` folder as well
 
@@ -26,4 +26,4 @@ We also need a code editor to work in. Generally, there are many code editors to
 
 # Links
 
-- [basil.js Reference](https://basiljs2.netlify.com/reference/) (WIP)
+- [basil.js v2.0 Reference](https://basiljs2.netlify.com/reference/) (WIP)
