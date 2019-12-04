@@ -28,7 +28,7 @@ We also need a code editor to work in. Generally, there are many code editors to
 
 ### basil.js Resources
 - [basil.js v2.0 Reference](https://basiljs2.netlify.com/reference/) (WIP)
-- [Typografie programmieren GitHub page](https://github.com/typografie-haw-hamburg/Typografie-programmieren)
+- [Typografie programmieren GitHub page](https://github.com/typografie-haw-hamburg/Typografie-programmieren/tree/master/Kurs), many scripts from basil.js seminar at HAW Hamburg
 - [basil.js example scripts](https://github.com/trych/MuTypo/raw/master/downloads/basiljs_examples.zip)
 - [basil.js tag on Stack Overflow](https://stackoverflow.com/questions/tagged/basil.js)
 
