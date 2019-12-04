@@ -7,7 +7,7 @@ As the current official version of basil.js is somewhat outdated, **please do *n
 ## Install basil.js
 
 - Create a folder named `basiljs` in your system's `Documents` folder
-- Right-click and use 'Save target as …' on [this link](https://github.com/trych/MuTypo/raw/master/downloads/basil.js) to download a file named `basil.js`
+- Download [this file](https://github.com/trych/MuTypo/raw/master/downloads/basil.js.zip) and un-zip it to a file named `basil.js`
 - Move this downloaded file into the new `basiljs` folder
 - Download the [basil.js example scripts](https://github.com/trych/MuTypo/raw/master/downloads/basiljs_examples.zip), un-zip the file and move the resulting folder into the `basiljs` folder as well
 
@@ -26,4 +26,19 @@ We also need a code editor to work in. Generally, there are many code editors to
 
 # Links
 
+## basil.js Resources
 - [basil.js v2.0 Reference](https://basiljs2.netlify.com/reference/) (WIP)
+- [Typografie programmieren GitHub page](https://github.com/typografie-haw-hamburg/Typografie-programmieren)
+- [basil.js example scripts](https://github.com/trych/MuTypo/raw/master/downloads/basiljs_examples.zip)
+- [basil.js tag on Stack Overflow](https://stackoverflow.com/questions/tagged/basil.js)
+
+# InDesign Scripting Resources
+- [InDesign ExtendScript API](https://www.indesignjs.de/extendscriptAPI/indesign-latest/#about.html) by Gregor Fellenz
+- [InDesign automatisieren](https://www.indesignjs.de/auflage2/), book by Gregor Fellenz, German
+- [HilfDirSelbst.ch Adobe InDesign Skriptwerkstatt](https://www.hilfdirselbst.ch/foren/Adobe_InDesign_Skriptwerkstatt_Forum_61.html) (Forum)
+- [InDesign on Adobe Support Community](https://community.adobe.com/t5/indesign/bd-p/indesign?page=1&sort=relevance&filter=all) (Forum)
+
+# JavaScript Resources
+- [Coding Train](https://www.youtube.com/user/shiffman) – YouTube channel teaching p5.js and Processing, especially [this playlist introducing p5.js to beginners](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Codecademy – Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
