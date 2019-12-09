@@ -30,6 +30,7 @@ We also need a code editor to work in. Generally, there are many code editors to
 - [basil.js v2.0 Reference](https://deploy-preview-145--basiljs2.netlify.com/reference) (WIP)
 - [Typografie programmieren GitHub page](https://github.com/typografie-haw-hamburg/Typografie-programmieren/tree/master/Kurs), many scripts from basil.js seminar at HAW Hamburg
 - [basil.js example scripts](https://github.com/trych/MuTypo/raw/master/downloads/basiljs_examples.zip)
+- [basil.js typo() cheat sheet](https://github.com/trych/MuTypo/raw/master/downloads/basiljs_b_typo_cheatsheet_v0_2.pdf)
 - [basil.js tag on Stack Overflow](https://stackoverflow.com/questions/tagged/basil.js)
 
 ### InDesign Scripting Resources
