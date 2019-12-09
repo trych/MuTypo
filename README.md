@@ -27,8 +27,8 @@ We also need a code editor to work in. Generally, there are many code editors to
 # Links
 
 ### Scripts
-- [MuTypo.jsx](/scripts/MuTypo.jsx)
-- [insertNote.jsx](/scripts/insertNote.jsx)
+- [MuTypo.jsx](https://github.com/trych/MuTypo/raw/master/downloads/MuTypo.zip)
+- [insertNote.jsx](https://github.com/trych/MuTypo/raw/master/downloads/insertNote.zip)
 - [workshop scripts](/scripts/workshop)
 
 ### basil.js Resources
