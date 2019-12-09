@@ -26,6 +26,11 @@ We also need a code editor to work in. Generally, there are many code editors to
 
 # Links
 
+### Scripts
+- [MuTypo.jsx](/scripts/MuTypo.jsx)
+- [insertNote.jsx](/scripts/insertNote.jsx)
+- [workshop scripts](/scripts/workshop)
+
 ### basil.js Resources
 - [basil.js v2.0 Reference](https://deploy-preview-145--basiljs2.netlify.com/reference) (WIP)
 - [Typografie programmieren GitHub page](https://github.com/typografie-haw-hamburg/Typografie-programmieren/tree/master/Kurs), many scripts from basil.js seminar at HAW Hamburg
