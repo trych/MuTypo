@@ -21,6 +21,7 @@ We also need a code editor to work in. Generally, there are many code editors to
 - This opens a folder inside another folder, which is also named `Sublime Text 3`
 - Replace this `Sublime Text 3` folder with the folder of the same name that you un-zipped before
 - Restart Sublime. If everything worked, you should see a white text window now, instead of the black text window from before
+- You can now run basil.js scripts by hitting `Ctrl + E`
 
 ---
 
